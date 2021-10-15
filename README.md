@@ -5,10 +5,6 @@ Working out. For some it's a passion, for others it is a requirement to maintain
 Goals
 The goals of our application are to track the workout routines for primary foundational strength movements. These include the barbell squat, bench press and the deadlift to name a few. Additionally, our application will allow users to view the history of previous logged workouts through selecting specific days on a dynamic calendar that goes back in time. We also wanted to add a feature that allows users to see the proper form and technique behind a workout so that they can remain safe and effective. Lastly, we wanted to create a simple, easy-to-use User Interface that can make all of our features easy to find and use.
 
-# Video Demo of App
-
-
-
 # Development Process:
 
 ## Phase1:
